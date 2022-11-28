@@ -5,7 +5,7 @@
 ### Predictive Model
 
 [Prediction Model on Wine dataset](/sample_page)
-<img src="images/white wine.jpg?raw=true"/>
+<img src="images/whitewine.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
