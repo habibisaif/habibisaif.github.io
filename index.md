@@ -4,7 +4,7 @@
 
 ### Predictive Model
 
-[Prediction Model on Wine dataset](/sample_page)
+[Prediction Model Comparison on Wine dataset](https://github.com/habibisaif/wine_prediction)
 <img src="images/whitewine.jpg?raw=true"/>
 
 ---
