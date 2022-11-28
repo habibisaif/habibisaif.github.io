@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Predictive Model
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Prediction Model on Wine dataset](/sample_page)
+<img src="images/wine_pred.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Deep Analysis
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
