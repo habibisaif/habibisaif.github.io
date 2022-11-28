@@ -18,6 +18,8 @@
 ---
 
 ### Deep Analysis
+[Deep Analysis of Indonesian Movies over the Years](https://www.kaggle.com/code/habibisaifuddin/indonesian-films-over-the-years)
+<img src="images/wine_pred.jpg?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
