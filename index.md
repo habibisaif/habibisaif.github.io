@@ -5,7 +5,7 @@
 ### Predictive Model
 
 [Prediction Model on Wine dataset](/sample_page)
-<img src="images/wine_pred.jpg?raw=true"/>
+<img src="images/white wine.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -19,7 +19,7 @@
 
 ### Deep Analysis
 [Deep Analysis of Indonesian Movies over the Years](https://www.kaggle.com/code/habibisaifuddin/indonesian-films-over-the-years)
-<img src="images/wine_pred.jpg?raw=true"/>
+<img src="images/indonesian_movies.jpg?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
