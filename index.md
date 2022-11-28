@@ -4,7 +4,7 @@
 
 ### Predictive Model
 
-[Prediction Model Comparison on Wine dataset](https://github.com/habibisaif/wine_prediction)
+[Comparison of Predictive Models of White Wine Quality](https://github.com/habibisaif/wine_prediction)
 <img src="images/whitewine.jpg?raw=true"/>
 
 ---
